@@ -1,7 +1,11 @@
 # asetbarcode
 
-Menampilkan aset barcode webview
+Judul Menampilkan aset barcode webview
+Flutter scan barcode redirect to webview Page
 
+DEPENDENCIES :
+  flutter_barcode_scanner: ^2.0.0
+  webview_flutter: ^3.0.4
 ## Getting Started
 
 This project is a starting point for a Flutter application.
